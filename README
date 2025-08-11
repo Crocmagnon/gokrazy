@@ -1,0 +1,6 @@
+This repository holds my configuration for gokrazy appliances.
+It uses `git-crypt` to encrypt config files due to the sensitive nature of the information they contain (wifi password, API keys, etc).
+
+https://github.com/AGWA/git-crypt
+
+The key is available, base64 encoded, in Bitwarden.
