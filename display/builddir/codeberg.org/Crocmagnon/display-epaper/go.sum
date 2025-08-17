@@ -6,6 +6,8 @@ codeberg.org/Crocmagnon/display-epaper v0.0.0-20250816174058-1d32493ba3ca h1:0aD
 codeberg.org/Crocmagnon/display-epaper v0.0.0-20250816174058-1d32493ba3ca/go.mod h1:DJswRIJoIgO8uhZ8iVZWjLgyCzwo+zHvwRrxPA50v1E=
 codeberg.org/Crocmagnon/display-epaper v0.0.0-20250817170827-fe038145bc14 h1:RtfXkF/G6jxcFfsYP7s/o58lUR5TUrVFKnrn3pGWEkI=
 codeberg.org/Crocmagnon/display-epaper v0.0.0-20250817170827-fe038145bc14/go.mod h1:EetQlmdcMIEOJrjDI9uKK6YL2iW1DDr+9bPtBC5PYdE=
+codeberg.org/Crocmagnon/display-epaper v0.0.0-20250817171606-3181022305ed h1:QKaC4Lit1HjpsNFXEcVkdUZgqXRhPL89AuGhbx9Cx9w=
+codeberg.org/Crocmagnon/display-epaper v0.0.0-20250817171606-3181022305ed/go.mod h1:DJswRIJoIgO8uhZ8iVZWjLgyCzwo+zHvwRrxPA50v1E=
 github.com/carlmjohnson/requests v0.24.3 h1:LYcM/jVIVPkioigMjEAnBACXl2vb42TVqiC8EYNoaXQ=
 github.com/carlmjohnson/requests v0.24.3/go.mod h1:duYA/jDnyZ6f3xbcF5PpZ9N8clgopubP2nK5i6MVMhU=
 github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 h1:DACJavvAHhabrF08vX0COfcOBJRhZ8lUbR+ZWIs0Y5g=
