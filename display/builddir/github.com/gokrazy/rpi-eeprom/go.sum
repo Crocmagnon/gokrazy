@@ -1,0 +1,13 @@
+github.com/gokrazy/rpi-eeprom v0.0.0-20240906033245-eaf022dc140f h1:VZe4CgkWHD9oL3J93S+WBd88m+U3f2s10HyP/RO/FVI=
+github.com/gokrazy/rpi-eeprom v0.0.0-20240906033245-eaf022dc140f/go.mod h1:vabxV1M+i6S3rGuWoFieHxCJW3jlob3rqe0KV82j+0o=
+github.com/gokrazy/rpi-eeprom v0.0.0-20241011033718-2d6278db94da h1:F6U6bYg5W3E1F0/ktzxd/43QEZV1Jdqn2zeZsoEOD+U=
+github.com/gokrazy/rpi-eeprom v0.0.0-20241011033718-2d6278db94da/go.mod h1:vabxV1M+i6S3rGuWoFieHxCJW3jlob3rqe0KV82j+0o=
+github.com/gokrazy/rpi-eeprom v0.0.0-20241022033733-fa14155a4c45 h1:UyFDHst4zElBeVUqqKyEdRwpJvpwGrhr4hjOwnxfiB0=
+github.com/gokrazy/rpi-eeprom v0.0.0-20241022033733-fa14155a4c45/go.mod h1:vabxV1M+i6S3rGuWoFieHxCJW3jlob3rqe0KV82j+0o=
+github.com/gokrazy/rpi-eeprom v0.0.0-20241208034722-1b137ccff4a1 h1:/tsZ0kHsb2wLNZdL2S5RrPd6RNqyUAZqCA+Y89tvDxY=
+github.com/gokrazy/rpi-eeprom v0.0.0-20241208034722-1b137ccff4a1/go.mod h1:vabxV1M+i6S3rGuWoFieHxCJW3jlob3rqe0KV82j+0o=
+github.com/gokrazy/rpi-eeprom v0.0.0-20250718041204-7a112997dd95 h1:MNoTyBZFatxivaStOk0BVWhc4Tnjud3OVeLfGQ3yX6I=
+github.com/gokrazy/rpi-eeprom v0.0.0-20250718041204-7a112997dd95/go.mod h1:vabxV1M+i6S3rGuWoFieHxCJW3jlob3rqe0KV82j+0o=
+github.com/gokrazy/rpi-eeprom v0.0.0-20250814040337-8ec647bdb180 h1:m1QRtQXRCEZmAqXFxnEwzl53X0wo63GvOOgI+Y+gW3c=
+github.com/gokrazy/rpi-eeprom v0.0.0-20250814040337-8ec647bdb180/go.mod h1:vabxV1M+i6S3rGuWoFieHxCJW3jlob3rqe0KV82j+0o=
+golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=

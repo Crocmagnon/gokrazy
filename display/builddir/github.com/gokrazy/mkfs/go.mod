@@ -1,0 +1,19 @@
+module gokrazy/build/github.com/gokrazy/mkfs
+
+go 1.24
+
+toolchain go1.24.2
+
+require github.com/gokrazy/internal v0.0.0-20250526201501-559979153369
+
+require (
+	github.com/antihax/optional v1.0.0 // indirect
+	github.com/gokrazy/gokapi v0.0.0-20250530162407-ee2d0d668321 // indirect
+	github.com/spf13/pflag v1.0.5 // indirect
+	golang.org/x/oauth2 v0.23.0 // indirect
+)
+
+require (
+	github.com/gokrazy/mkfs v0.0.0-20250530162502-fbb07f9ec5fd
+	github.com/google/go-cmp v0.5.9 // indirect
+)

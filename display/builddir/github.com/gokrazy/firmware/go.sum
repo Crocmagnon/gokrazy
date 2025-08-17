@@ -1,0 +1,14 @@
+github.com/gokrazy/firmware v0.0.0-20240831033707-c45b3b8e889c h1:sqWZEv7Dy9858KWTwSYOiludRJmJjd5yNs90uhrVyKs=
+github.com/gokrazy/firmware v0.0.0-20240831033707-c45b3b8e889c/go.mod h1:x8Lwd/ZFqJTBWUGW7yt/qwgxO8/AHh5KGFYJ4yfH+FE=
+github.com/gokrazy/firmware v0.0.0-20240914033840-d393aabea112 h1:s5y+AUoe3t5E5va3Q9xIoLUBmabc2hqlHv4/OcjVBHI=
+github.com/gokrazy/firmware v0.0.0-20240914033840-d393aabea112/go.mod h1:x8Lwd/ZFqJTBWUGW7yt/qwgxO8/AHh5KGFYJ4yfH+FE=
+github.com/gokrazy/firmware v0.0.0-20241011034318-1e9b5f42b3e6 h1:q15iLyUjHueycFYw20d2XeVWXi+rgRfWI6LhFXf1xow=
+github.com/gokrazy/firmware v0.0.0-20241011034318-1e9b5f42b3e6/go.mod h1:x8Lwd/ZFqJTBWUGW7yt/qwgxO8/AHh5KGFYJ4yfH+FE=
+github.com/gokrazy/firmware v0.0.0-20241018034354-83a281b3c4b1 h1:5deglR3GiHB0dsRwmaUib+DzdmByYIRtP41Kd5USIV4=
+github.com/gokrazy/firmware v0.0.0-20241018034354-83a281b3c4b1/go.mod h1:x8Lwd/ZFqJTBWUGW7yt/qwgxO8/AHh5KGFYJ4yfH+FE=
+github.com/gokrazy/firmware v0.0.0-20241112033854-bda9a07372a9 h1:xhHch+Nxn0PQi3GopLKckegEbq7AZsl8osJmU2Jw3jU=
+github.com/gokrazy/firmware v0.0.0-20241112033854-bda9a07372a9/go.mod h1:x8Lwd/ZFqJTBWUGW7yt/qwgxO8/AHh5KGFYJ4yfH+FE=
+github.com/gokrazy/firmware v0.0.0-20241206035113-14ca74ffca9d h1:5w4TDUGoNrAaXGiI+y+4Co2aazDH9VUNPDxVBwm4sZ0=
+github.com/gokrazy/firmware v0.0.0-20241206035113-14ca74ffca9d/go.mod h1:x8Lwd/ZFqJTBWUGW7yt/qwgxO8/AHh5KGFYJ4yfH+FE=
+github.com/gokrazy/firmware v0.0.0-20250718041742-ee244653f5f4 h1:7nAfKyfn8MxeO9VmP25LvSTyW0yQw57v8lVs7RcJ7tc=
+github.com/gokrazy/firmware v0.0.0-20250718041742-ee244653f5f4/go.mod h1:x8Lwd/ZFqJTBWUGW7yt/qwgxO8/AHh5KGFYJ4yfH+FE=
