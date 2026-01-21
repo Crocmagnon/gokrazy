@@ -12,6 +12,6 @@ require (
 )
 
 require (
-	codeberg.org/Crocmagnon/display-epaper v0.0.0-20250819211058-9273df64532e
+	codeberg.org/Crocmagnon/display-epaper v0.0.0-20260121145602-60cfdde38d30
 	golang.org/x/net v0.43.0 // indirect
 )

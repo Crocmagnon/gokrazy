@@ -4,7 +4,7 @@ go 1.23.1
 
 require (
 	github.com/fogleman/gg v1.3.0 // indirect
-	github.com/gokrazy/fbstatus v0.0.0-20240818141338-147dca12c922 // indirect
+	github.com/gokrazy/fbstatus v0.0.0-20250829061904-cb6bc99222d1 // indirect
 	github.com/gokrazy/gokrazy v0.0.0-20220813173554-0d5434aefff7 // indirect
 	github.com/gokrazy/internal v0.0.0-20220807084007-5675ab8eae51 // indirect
 	github.com/gokrazy/stat v0.1.1-0.20210830201256-f0fd5b4d0995 // indirect
