@@ -5,7 +5,7 @@ go 1.24
 toolchain go1.24.2
 
 require (
-	github.com/gokrazy/gokrazy v0.0.0-20260106205918-d5f6656be1de // indirect
+	github.com/gokrazy/gokrazy v0.0.0-20260218074004-791851666ca2 // indirect
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/google/renameio/v2 v2.0.0 // indirect
 	github.com/josharian/native v1.1.0 // indirect

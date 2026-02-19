@@ -478,7 +478,7 @@ require (
 	mvdan.cc/gofumpt v0.6.0 // indirect
 	mvdan.cc/unparam v0.0.0-20240104100049-c549a3470d14 // indirect
 	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8 // indirect
-	tailscale.com v1.94.1
+	tailscale.com v1.94.2
 )
 
 tool github.com/stacklok/frizbee
